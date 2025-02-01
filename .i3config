@@ -16,9 +16,9 @@ gaps inner 5
 gaps outer 5
 set $term --no-startup-id $TERMINAL
 
-exec_always --no-startup-id feh --bg-scale '/home/simsim/Downloads/wallhaven-4gky7n_1366x768.png'
+exec_always --no-startup-id feh --bg-scale '/home/ /Downloads/ '
 
-exec_always --no-startup-id picom --config /home/simsim/.config/picom.conf
+exec_always --no-startup-id picom --config /home/ /.config/picom.conf
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
